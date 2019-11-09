@@ -68,7 +68,6 @@
     {
       "action" : "deny",
       "creationDate" : 1573300226.02174,
-      "direction" : "incoming",
       "modificationDate" : 1573300226.02174,
       "ports" : "80",
       "process" : "any",
