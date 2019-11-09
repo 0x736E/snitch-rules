@@ -1,0 +1,386 @@
+{
+  "description" : "Photoshop, Illustrator, Audition, After Effects, Acrobat, Sync",
+  "name" : "Adobe",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/ARMDC\/Application\/Acrobat Update Helper.app\/Contents\/MacOS\/Acrobat Update Helper",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe After Effects 2020\/Adobe After Effects 2020.app\/Contents\/MacOS\/After Effects",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Audition 2020\/Adobe Audition 2020.app\/Contents\/MacOS\/Adobe Audition 2020",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Illustrator CC 2019\/Adobe Illustrator.app\/Contents\/MacOS\/Adobe Illustrator",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Photoshop CC 2019\/Adobe Photoshop CC 2019.app\/Contents\/MacOS\/Adobe Photoshop CC 2019",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AdobeGCClient.app\/Contents\/MacOS\/AdobeGCClient",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe After Effects 2020\/Adobe After Effects 2020.app\/Contents\/MacOS\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Illustrator CC 2019\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Photoshop CC 2019\/Adobe Photoshop CC 2019.app\/Contents\/MacOS\/CEPHtmlEngine.app\/Contents\/MacOS\/CEPHtmlEngine",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Illustrator CC 2019\/Adobe Illustrator.app\/Contents\/MacOS\/CEPHtmlEngine\/CEPHtmlEngine.app\/Contents\/Frameworks\/CEPHtmlEngine Helper.app\/Contents\/MacOS\/CEPHtmlEngine Helper",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Photoshop CC 2019\/Adobe Photoshop CC 2019.app\/Contents\/MacOS\/CEPHtmlEngine.app\/Contents\/frameworks\/CEPHtmlEngine Helper.app\/Contents\/MacOS\/CEPHtmlEngine Helper",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/LogTransport2.app\/Contents\/MacOS\/LogTransport2",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Illustrator CC 2019\/Adobe Illustrator.app\/Contents\/MacOS\/LogTransport2.app\/Contents\/MacOS\/LogTransport2",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229758.2951479,
+      "modificationDate" : 1573229758.2951479,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe After Effects 2020\/Adobe After Effects 2020.app\/Contents\/TeamProjectsLocalHub.app\/Contents\/MacOS\/TeamProjectsLocalHub",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "typekit.net",
+        "acrobat.com",
+        "adobelogin.com",
+        "typekit.com",
+        "newrelic.com",
+        "behance.net",
+        "adobe.com",
+        "adobe.io",
+        "nr-data.net"
+      ]
+    }
+  ]
+}
