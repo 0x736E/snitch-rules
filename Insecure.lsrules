@@ -1,0 +1,65 @@
+{
+  "description" : "Insecure protocols - e.g. those without encryption",
+  "name" : "Insecure",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1573300458.5932369,
+      "modificationDate" : 1573300458.5932369,
+      "owner" : "me",
+      "ports" : "20",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573300343.2678809,
+      "modificationDate" : 1573300343.2678809,
+      "owner" : "me",
+      "ports" : "21",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573300258.357769,
+      "modificationDate" : 1573300339.1890721,
+      "owner" : "me",
+      "ports" : "25",
+      "process" : "any",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573300226.02174,
+      "modificationDate" : 1573300226.02174,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573300367.8654189,
+      "modificationDate" : 1573300367.8654189,
+      "owner" : "me",
+      "ports" : "110",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573300443.7476621,
+      "modificationDate" : 1573300443.7476621,
+      "owner" : "me",
+      "ports" : "143",
+      "process" : "any",
+      "protocol" : "tcp",
+      "remote" : "any"
+    }
+  ]
+}
