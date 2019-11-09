@@ -1,0 +1,162 @@
+{
+  "description" : "Word, Excel, Powerpoint, Outlook, Yammer, Teams",
+  "name" : "Microsoft Office",
+  "rules" : [
+
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Microsoft Excel.app\/Contents\/MacOS\/Microsoft Excel",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Microsoft Outlook.app\/Contents\/MacOS\/Microsoft Outlook",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Microsoft PowerPoint.app\/Contents\/MacOS\/Microsoft PowerPoint",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "svc.ms",
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "process" : "\/Applications\/Microsoft Teams.app\/Contents\/MacOS\/Teams",
+      "remote-domains" : [
+        "hockeyapp.net",
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Microsoft Word.app\/Contents\/MacOS\/Microsoft Word",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211253.485774,
+      "modificationDate" : 1573227286.2451658,
+      "owner" : "any",
+      "process" : "\/Applications\/OneDrive.app\/Contents\/MacOS\/OneDrive",
+      "remote-domains" : [
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227908.8802249,
+      "modificationDate" : 1573227908.8802249,
+      "owner" : "any",
+      "ports" : "443",
+      "process" : "\/Applications\/Yammer.app\/Contents\/MacOS\/Yammer",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "hockeyapp.net",
+        "assets-yammer.com",
+        "yammer.com",
+        "azurewebsites.net",
+        "microsoftonline.com",
+        "azurewebsites.net",
+        "office.com",
+        "office.net",
+        "skype.com",
+        "office365.com",
+        "sharepoint.com",
+        "microsoft.com",
+        "live.com",
+        "windows.net"
+      ]
+    }
+  ]
+}
