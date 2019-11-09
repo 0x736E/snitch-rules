@@ -9,8 +9,7 @@
       "owner" : "me",
       "process" : "\/System\/Library\/Frameworks\/Accounts.framework\/Versions\/A\/Support\/accountsd",
       "remote-domains" : [
-        "googleapis.com",
-        "windows.net"
+        "googleapis.com"
       ]
     },
     {
@@ -20,8 +19,7 @@
       "owner" : "me",
       "process" : "\/System\/Library\/Frameworks\/AddressBook.framework\/Versions\/A\/Helpers\/AddressBookSourceSync.app\/Contents\/MacOS\/AddressBookSourceSync",
       "remote-domains" : [
-        "googleapis.com",
-        "office365.com"
+        "googleapis.com"
       ]
     },
     {
@@ -31,8 +29,7 @@
       "owner" : "me",
       "process" : "\/System\/Library\/PrivateFrameworks\/CalendarAgent.framework\/Executables\/CalendarAgent",
       "remote-domains" : [
-        "googleusercontent.com",
-        "office365.com"
+        "googleusercontent.com"
       ]
     },
     {
@@ -71,26 +68,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1573230839.3488321,
-      "modificationDate" : 1573230839.3488321,
-      "owner" : "me",
-      "ports" : "21",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1573230827.6935201,
-      "modificationDate" : 1573230827.6935201,
-      "owner" : "me",
-      "ports" : "80",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1573212852.2911539,
       "modificationDate" : 1573230825.293087,
       "owner" : "me",
@@ -99,16 +76,6 @@
       "protocol" : "tcp",
       "remote" : "any",
       "via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/78.0.3904.97\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1573227375.6048331,
-      "modificationDate" : 1573227375.6048331,
-      "owner" : "me",
-      "ports" : "443",
-      "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
-      "protocol" : "tcp",
-      "remote-domains" : "google.com"
     }
   ]
 }
