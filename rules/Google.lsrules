@@ -4,6 +4,75 @@
   "rules" : [
     {
       "action" : "allow",
+      "creationDate" : 1573312809.5075479,
+      "modificationDate" : 1573312809.5075479,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CalendarAgent.framework\/Executables\/CalendarAgent",
+      "protocol" : "tcp",
+      "remote-domains" : "office365.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573214820.2504358,
+      "modificationDate" : 1573220371.307354,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/OneDrive.app\/Contents\/PlugIns\/FinderSync.appex\/Contents\/MacOS\/FinderSync",
+      "protocol" : "tcp",
+      "remote-domains" : "hockeyapp.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573305696.52336,
+      "modificationDate" : 1573305696.52336,
+      "owner" : "me",
+      "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+      "remote-hosts" : "tools.google.com",
+      "via" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/ksfetch"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227360.6491299,
+      "modificationDate" : 1573230943.8302579,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/ksfetch",
+      "protocol" : "tcp",
+      "remote-domains" : "google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573226859.632087,
+      "modificationDate" : 1573226859.632087,
+      "owner" : "me",
+      "ports" : "587",
+      "process" : "\/System\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-domains" : "gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573220942.502213,
+      "modificationDate" : 1573226285.7671571,
+      "owner" : "me",
+      "ports" : "993",
+      "process" : "\/System\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-domains" : "gmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573226309.3855071,
+      "modificationDate" : 1573226309.3855071,
+      "owner" : "me",
+      "ports" : "995",
+      "process" : "\/System\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "protocol" : "tcp",
+      "remote-domains" : "gmail.com"
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1573211198.4183559,
       "modificationDate" : 1573230611.0065629,
       "owner" : "me",
