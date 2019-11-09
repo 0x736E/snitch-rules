@@ -18,17 +18,17 @@ https://github.com/notracking/hosts-blocklists
 You can subscribe directly to the rules by using their raw download links, but
 here they are for convenience:
 
-* [Adobe](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/Adobe.lsrules)
+* [Adobe](https://github.com/0x736E/snitch-rules/raw/master/rules/Adobe.lsrules)
 
-* [Google](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/Google.lsrules)
+* [Google](https://github.com/0x736E/snitch-rules/raw/master/rules/Google.lsrules)
 
-* [Microsoft Office](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/MicrosoftOffice.lsrules)
+* [Microsoft Office](https://github.com/0x736E/snitch-rules/raw/master/rules/MicrosoftOffice.lsrules)
 
-* [Messaging (WhatsApp, Keybase, etc)](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/Messaging.lsrules)
+* [Messaging (WhatsApp, Keybase, etc)](https://github.com/0x736E/snitch-rules/raw/master/rules/Messaging.lsrules)
 
-* [BlockList (Adware, Malware etc)](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/BlockList.lsrules)
+* [BlockList (Adware, Malware etc)](https://github.com/0x736E/snitch-rules/raw/master/rules/BlockList.lsrules)
 
 
 And for the paranoid:
 
-* [Insecure (non-encrypted protocols)](x-littlesnitch:subscribe-rules?url=https://github.com/0x736E/snitch-rules/raw/master/rules/Insecure.lsrules)
+* [Insecure (non-encrypted protocols)](https://github.com/0x736E/snitch-rules/raw/master/rules/Insecure.lsrules)
