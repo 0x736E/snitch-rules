@@ -32,3 +32,5 @@ here they are for convenience:
 And for the paranoid:
 
 * [Insecure (non-encrypted protocols)](https://github.com/0x736E/snitch-rules/raw/master/rules/Insecure.lsrules)
+
+* [Security Tools (1Password, Avast, etc)](https://github.com/0x736E/snitch-rules/raw/master/rules/Security.lsrules)

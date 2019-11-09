@@ -1,0 +1,110 @@
+{
+  "description" : "Avast, BlackVPN, 1Password, Little Snitch, Micro Snitch",
+  "name" : "Security",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1573210671.953198,
+      "modificationDate" : 1573210671.953198,
+      "owner" : "me",
+      "process" : "\/Applications\/blackVPN.app\/Contents\/MacOS\/blackVPN",
+      "remote-domains" : "whitevpn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573210828.7771358,
+      "modificationDate" : 1573325589.6554761,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/Avast.app\/Contents\/Backend\/services\/com.avast.agent",
+      "protocol" : "tcp",
+      "remote-domains" : "avast.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211816.9419641,
+      "modificationDate" : 1573325571.3342938,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/Avast.app\/Contents\/Backend\/services\/com.avast.proxy",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211112.1392,
+      "modificationDate" : 1573325631.9008331,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Applications\/Avast.app\/Contents\/Backend\/utils\/com.avast.submit",
+      "protocol" : "tcp",
+      "remote-domains" : "avast.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211108.1396298,
+      "modificationDate" : 1573211108.1396298,
+      "owner" : "system",
+      "process" : "\/usr\/bin\/curl",
+      "remote-domains" : "avast.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573297230.797492,
+      "modificationDate" : 1573297230.797492,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Little Snitch\/Little Snitch Software Update.app\/Contents\/MacOS\/Little Snitch Software Update",
+      "protocol" : "tcp",
+      "remote-domains" : "obdev.at"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573227904.710202,
+      "modificationDate" : 1573325259.9751959,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/Library\/Little Snitch\/Little Snitch Daemon.bundle\/Contents\/XPCServices\/Little Snitch URL Downloader.xpc\/Contents\/MacOS\/Little Snitch URL Downloader",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "githubusercontent.com",
+        "s3-eu-west-1.amazonaws.com",
+        "github.com"
+      ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211714.0076709,
+      "modificationDate" : 1573212688.805275,
+      "owner" : "system",
+      "process" : "\/usr\/libexec\/mdmclient",
+      "remote-domains" : "jamfcloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573226442.1295581,
+      "modificationDate" : 1573226442.1295581,
+      "owner" : "me",
+      "process" : "\/usr\/libexec\/mdmclient",
+      "remote-domains" : "jamfcloud.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573212760.1589231,
+      "modificationDate" : 1573212760.1589231,
+      "owner" : "me",
+      "process" : "\/Applications\/Micro Snitch.app\/Contents\/MacOS\/Micro Snitch",
+      "remote-domains" : "obdev.at"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573313433.3274422,
+      "modificationDate" : 1573313593.55439,
+      "owner" : "system",
+      "ports" : "443",
+      "process" : "\/System\/Library\/Frameworks\/Security.framework\/Versions\/A\/MachServices\/SecurityAgent.bundle\/Contents\/MacOS\/SecurityAgent",
+      "protocol" : "tcp",
+      "remote-domains" : "duosecurity.com"
+    }
+  ]
+}
