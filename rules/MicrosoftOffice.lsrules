@@ -2,7 +2,34 @@
   "description" : "Word, Excel, Powerpoint, Outlook, Yammer, Teams",
   "name" : "Microsoft Office",
   "rules" : [
-
+    {
+      "action" : "allow",
+      "creationDate" : 1573317299.268183,
+      "modificationDate" : 1573317299.268183,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/Frameworks\/Accounts.framework\/Versions\/A\/Support\/accountsd",
+      "protocol" : "tcp",
+      "remote-domains" : "windows.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573313918.7963991,
+      "modificationDate" : 1573313918.7963991,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/System\/Library\/Frameworks\/AddressBook.framework\/Versions\/A\/Helpers\/AddressBookSourceSync.app\/Contents\/MacOS\/AddressBookSourceSync",
+      "protocol" : "tcp",
+      "remote-domains" : "office365.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573210714.140805,
+      "modificationDate" : 1573210714.140805,
+      "owner" : "me",
+      "process" : "\/System\/Library\/PrivateFrameworks\/ExchangeSync.framework\/Versions\/A\/exchangesyncd",
+      "remote-domains" : "office365.com"
+    },
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
