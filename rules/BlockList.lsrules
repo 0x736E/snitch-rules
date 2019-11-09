@@ -1,6 +1,7 @@
 {
   "description": "Adverts, Malware, Trackers, Fake Websites etc.",
   "name": "Blocklist",
+  "owner" : "any",
   "rules": [
     {
       "action": "deny",
