@@ -4,6 +4,19 @@
   "rules" : [
     {
       "action" : "allow",
+      "creationDate" : 1573217507.918848,
+      "modificationDate" : 1573230590.7546511,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/1Password 7.app\/Contents\/MacOS\/1Password 7",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "1password.com",
+        "agilebits.com"
+      ]
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1573210671.953198,
       "modificationDate" : 1573210671.953198,
       "owner" : "me",
