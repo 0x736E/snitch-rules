@@ -4,6 +4,30 @@
   "rules" : [
     {
       "action" : "allow",
+      "creationDate" : 1573210706.831403,
+      "modificationDate" : 1573231392.025948,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Keybase.app\/Contents\/SharedSupport\/bin\/kbfs",
+      "protocol" : "tcp",
+      "remote-domains" : "keybaseapi.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573211293.681802,
+      "modificationDate" : 1573231331.588511,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Keybase.app\/Contents\/SharedSupport\/bin\/keybase",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "githubusercontent.com",
+        "keybaseapi.com",
+        "s3.amazonaws.com"
+      ]
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1573230519.501111,
       "modificationDate" : 1573230519.501111,
       "owner" : "any",
