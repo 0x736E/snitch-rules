@@ -48,7 +48,7 @@
       "ports" : "443",
       "process" : "\/Applications\/Telegram Desktop.app\/Contents\/MacOS\/Telegram Desktop",
       "protocol" : "tcp",
-      "remote-addresses" : "149.154.165.120, 149.154.167.91, 2001:67c:4e8:f004::b"
+      "remote-addresses" : "149.154.165.120, 149.154.167.91, 2001:67c:4e8:f004::b, 2001:67c:4e8:f004::a"
     },
     {
       "action" : "allow",
