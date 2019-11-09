@@ -4,6 +4,21 @@
   "rules" : [
     {
       "action" : "allow",
+      "creationDate" : 1573291663.7513871,
+      "modificationDate" : 1573325053.0665309,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "adobe.com",
+        "adobeccstatic.com",
+        "adobe.io",
+        "behance.net"
+      ]
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1573229758.2951479,
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
