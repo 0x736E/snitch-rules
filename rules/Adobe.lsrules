@@ -4,6 +4,67 @@
   "rules" : [
     {
       "action" : "allow",
+      "creationDate" : 1573291648.5535221,
+      "modificationDate" : 1573291648.5535221,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobeoobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573291668.977088,
+      "modificationDate" : 1573291668.977088,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/LCC\/adobe_licensing_helper.app\/Contents\/MacOS\/adobe_licensing_helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573291665.4812241,
+      "modificationDate" : 1573291665.4812241,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/LCC\/adobe_licensing_helper.app\/Contents\/MacOS\/adobe_licensing_helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573229793.9468699,
+      "modificationDate" : 1573229793.9468699,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobess.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573233079.6936259,
+      "modificationDate" : 1573233079.6936259,
+      "owner" : "me",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "remote-domains" : "typekit.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573233077.7742481,
+      "modificationDate" : 1573291427.9551549,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : [
+        "adobesc.com",
+        "adobe.io"
+      ]
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1573291663.7513871,
       "modificationDate" : 1573325053.0665309,
       "owner" : "me",
