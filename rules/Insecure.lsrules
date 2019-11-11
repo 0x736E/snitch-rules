@@ -15,25 +15,7 @@
       "action" : "deny",
       "creationDate" : 1573300343.2678809,
       "modificationDate" : 1573300343.2678809,
-      "ports" : "21",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "22",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300443.7476621,
-      "modificationDate" : 1573300443.7476621,
-      "ports" : "23",
+      "ports" : "21-23",
       "process" : "any",
       "protocol" : "tcp",
       "remote" : "any"
@@ -108,42 +90,8 @@
       "creationDate" : 1573300443.7476621,
       "direction" : "incoming",
       "modificationDate" : 1573300443.7476621,
-      "ports" : "135",
+      "ports" : "135-139",
       "process" : "any",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300443.7476621,
-      "modificationDate" : 1573300443.7476621,
-      "ports" : "136",
-      "process" : "any",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300443.7476621,
-      "modificationDate" : 1573300443.7476621,
-      "ports" : "137",
-      "process" : "any",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300443.7476621,
-      "modificationDate" : 1573300443.7476621,
-      "ports" : "138",
-      "process" : "any",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300443.7476621,
-      "direction" : "incoming",
-      "modificationDate" : 1573300443.7476621,
-      "ports" : "139",
-      "process" : "any",
-      "protocol" : "tcp",
       "remote" : "any"
     },
     {
@@ -259,79 +207,7 @@
       "action" : "deny",
       "creationDate" : 1573300343.2678809,
       "modificationDate" : 1573300343.2678809,
-      "ports" : "6881",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6882",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6883",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6884",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6885",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6886",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6887",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6888",
-      "process" : "any",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1573300343.2678809,
-      "modificationDate" : 1573300343.2678809,
-      "ports" : "6889",
+      "ports" : "6881-6889",
       "process" : "any",
       "protocol" : "tcp",
       "remote" : "any"

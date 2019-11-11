@@ -5,6 +5,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573317299.268183,
+      "direction": "outgoing",
       "modificationDate" : 1573317299.268183,
       "owner" : "me",
       "ports" : "443",
@@ -15,6 +16,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573313918.7963991,
+      "direction": "outgoing",
       "modificationDate" : 1573313918.7963991,
       "owner" : "me",
       "ports" : "443",
@@ -25,6 +27,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573210714.140805,
+      "direction": "outgoing",
       "modificationDate" : 1573210714.140805,
       "owner" : "me",
       "process" : "\/System\/Library\/PrivateFrameworks\/ExchangeSync.framework\/Versions\/A\/exchangesyncd",
@@ -33,6 +36,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "ports" : "443",
@@ -55,6 +59,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "ports" : "443",
@@ -77,6 +82,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "ports" : "443",
@@ -100,6 +106,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "process" : "\/Applications\/Microsoft Teams.app\/Contents\/MacOS\/Teams",
@@ -121,6 +128,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "ports" : "443",
@@ -143,6 +151,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573211253.485774,
+      "direction": "outgoing",
       "modificationDate" : 1573227286.2451658,
       "owner" : "any",
       "process" : "\/Applications\/OneDrive.app\/Contents\/MacOS\/OneDrive",
@@ -164,6 +173,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227908.8802249,
+      "direction": "outgoing",
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "ports" : "443",

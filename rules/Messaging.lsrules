@@ -9,8 +9,7 @@
       "owner" : "me",
       "ports" : "443",
       "process" : "\/Applications\/Keybase.app\/Contents\/SharedSupport\/bin\/kbfs",
-      "protocol" : "tcp",
-      "remote-domains" : "keybaseapi.com"
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
@@ -19,12 +18,7 @@
       "owner" : "me",
       "ports" : "443",
       "process" : "\/Applications\/Keybase.app\/Contents\/SharedSupport\/bin\/keybase",
-      "protocol" : "tcp",
-      "remote-domains" : [
-        "githubusercontent.com",
-        "keybaseapi.com",
-        "s3.amazonaws.com"
-      ]
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
@@ -33,12 +27,7 @@
       "owner" : "any",
       "ports" : "443",
       "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
-      "protocol" : "tcp",
-      "remote-domains" : [
-        "slackb.com",
-        "slack-imgs.com",
-        "slack.com"
-      ]
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
@@ -47,8 +36,7 @@
       "owner" : "any",
       "ports" : "443",
       "process" : "\/Applications\/Telegram Desktop.app\/Contents\/MacOS\/Telegram Desktop",
-      "protocol" : "tcp",
-      "remote-addresses" : "149.154.165.120, 149.154.167.91, 2001:67c:4e8:f004::b, 2001:67c:4e8:f004::a"
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
@@ -57,19 +45,7 @@
       "owner" : "any",
       "ports" : "443",
       "process" : "\/Applications\/Twitter.app\/Contents\/MacOS\/Twitter",
-      "protocol" : "tcp",
-      "remote-domains" : [
-        "twitter.com",
-        "twimg.com"
-      ]
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1573230519.501111,
-      "modificationDate" : 1573230519.501111,
-      "owner" : "any",
-      "process" : "\/Applications\/Twitter.app\/Contents\/PlugIns\/TwitterNotificationServiceExtension.appex\/Contents\/MacOS\/TwitterNotificationServiceExtension",
-      "remote-domains" : "twimg.com"
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
@@ -86,11 +62,7 @@
       "owner" : "any",
       "ports" : "443",
       "process" : "\/Applications\/WhatsApp.app\/Contents\/MacOS\/WhatsApp",
-      "protocol" : "tcp",
-      "remote-domains" : [
-        "whatsapp.net",
-        "whatsapp.com"
-      ]
+      "protocol" : "tcp"
     }
   ]
 }

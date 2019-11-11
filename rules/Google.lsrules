@@ -5,6 +5,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573312809.5075479,
+      "direction": "outgoing",
       "modificationDate" : 1573312809.5075479,
       "owner" : "me",
       "ports" : "443",
@@ -15,6 +16,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573214820.2504358,
+      "direction": "outgoing",
       "modificationDate" : 1573220371.307354,
       "owner" : "me",
       "ports" : "443",
@@ -25,6 +27,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573305696.52336,
+      "direction": "outgoing",
       "modificationDate" : 1573305696.52336,
       "owner" : "me",
       "process" : "\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
@@ -34,6 +37,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573227360.6491299,
+      "direction": "outgoing",
       "modificationDate" : 1573230943.8302579,
       "owner" : "system",
       "ports" : "443",
@@ -44,6 +48,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573226859.632087,
+      "direction": "outgoing",
       "modificationDate" : 1573226859.632087,
       "owner" : "me",
       "ports" : "587",
@@ -54,6 +59,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573220942.502213,
+      "direction": "outgoing",
       "modificationDate" : 1573226285.7671571,
       "owner" : "me",
       "ports" : "993",
@@ -64,6 +70,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573226309.3855071,
+      "direction": "outgoing",
       "modificationDate" : 1573226309.3855071,
       "owner" : "me",
       "ports" : "995",
@@ -74,6 +81,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573211198.4183559,
+      "direction": "outgoing",
       "modificationDate" : 1573230611.0065629,
       "owner" : "me",
       "process" : "\/System\/Library\/Frameworks\/Accounts.framework\/Versions\/A\/Support\/accountsd",
@@ -84,6 +92,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573211197.2493711,
+      "direction": "outgoing",
       "modificationDate" : 1573230627.0211859,
       "owner" : "me",
       "process" : "\/System\/Library\/Frameworks\/AddressBook.framework\/Versions\/A\/Helpers\/AddressBookSourceSync.app\/Contents\/MacOS\/AddressBookSourceSync",
@@ -94,6 +103,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573211201.7532759,
+      "direction": "outgoing",
       "modificationDate" : 1573230656.1212621,
       "owner" : "me",
       "process" : "\/System\/Library\/PrivateFrameworks\/CalendarAgent.framework\/Executables\/CalendarAgent",
@@ -104,6 +114,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573210807.456557,
+      "direction": "outgoing",
       "modificationDate" : 1573210807.456557,
       "owner" : "me",
       "process" : "\/System\/Library\/PrivateFrameworks\/SafariSafeBrowsing.framework\/Versions\/A\/com.apple.Safari.SafeBrowsing.Service",
@@ -112,6 +123,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573231509.3896379,
+      "direction": "outgoing",
       "modificationDate" : 1573231509.3896379,
       "owner" : "me",
       "ports" : "5228",
@@ -123,6 +135,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573231021.6589541,
+      "direction": "outgoing",
       "modificationDate" : 1573231620.6499929,
       "owner" : "me",
       "ports" : "443",
@@ -138,6 +151,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573212852.2911539,
+      "direction": "outgoing",
       "modificationDate" : 1573230825.293087,
       "owner" : "me",
       "ports" : "443",

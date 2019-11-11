@@ -5,6 +5,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573291648.5535221,
+      "direction": "outgoing",
       "modificationDate" : 1573291648.5535221,
       "owner" : "me",
       "ports" : "443",
@@ -15,6 +16,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573291668.977088,
+      "direction": "outgoing",
       "modificationDate" : 1573291668.977088,
       "owner" : "me",
       "ports" : "443",
@@ -25,6 +27,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573291665.4812241,
+      "direction": "outgoing",
       "modificationDate" : 1573291665.4812241,
       "owner" : "me",
       "ports" : "443",
@@ -35,6 +38,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229793.9468699,
+      "direction": "outgoing",
       "modificationDate" : 1573229793.9468699,
       "owner" : "me",
       "ports" : "443",
@@ -45,6 +49,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573233079.6936259,
+      "direction": "outgoing",
       "modificationDate" : 1573233079.6936259,
       "owner" : "me",
       "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
@@ -53,6 +58,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573233077.7742481,
+      "direction": "outgoing",
       "modificationDate" : 1573291427.9551549,
       "owner" : "me",
       "ports" : "443",
@@ -66,6 +72,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573291663.7513871,
+      "direction": "outgoing",
       "modificationDate" : 1573325053.0665309,
       "owner" : "me",
       "ports" : "443",
@@ -81,6 +88,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -101,6 +109,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -121,6 +130,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -141,6 +151,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -161,6 +172,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -181,6 +193,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -201,6 +214,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -221,6 +235,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -241,6 +256,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -261,6 +277,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -281,6 +298,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -301,6 +319,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -321,6 +340,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -341,6 +361,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -361,6 +382,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -381,6 +403,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -401,6 +424,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -421,6 +445,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",
@@ -441,6 +466,7 @@
     {
       "action" : "allow",
       "creationDate" : 1573229758.2951479,
+      "direction": "outgoing",
       "modificationDate" : 1573229758.2951479,
       "owner" : "any",
       "ports" : "443",

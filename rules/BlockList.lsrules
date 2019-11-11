@@ -7,7 +7,6 @@
       "action": "deny",
       "creationDate": 1573307007.37072,
       "modificationDate": 1573307007.37072,
-      "owner": "me",
       "process": "any",
       "remote-domains": [
         "000007.ru",
