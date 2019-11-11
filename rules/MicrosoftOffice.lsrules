@@ -110,20 +110,9 @@
       "modificationDate" : 1573227908.8802249,
       "owner" : "any",
       "process" : "\/Applications\/Microsoft Teams.app\/Contents\/MacOS\/Teams",
-      "remote-domains" : [
-        "hockeyapp.net",
-        "azurewebsites.net",
-        "microsoftonline.com",
-        "azurewebsites.net",
-        "office.com",
-        "office.net",
-        "skype.com",
-        "office365.com",
-        "sharepoint.com",
-        "microsoft.com",
-        "live.com",
-        "windows.net"
-      ]
+      "owner" : "any",
+      "ports" : "443",
+      "protocol" : "tcp"
     },
     {
       "action" : "allow",
